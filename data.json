@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "title": "🧠 Git Mastery",
+    "description": "Oh My Git!—Interactive Git Game: A visual and fun way to learn Git commands and branching concepts interactively?\n\n\n\n",
+    "link": "https://ohmygit.org/",
+    "priority": 4,
+    "timeToFinish": "30",
+    "createdAt": "June 19th 2025",
+    "agreed": true,
+    "status": "active",
+    "activatedAt": "2025-07-02T09:03:26.915Z"
+  },
+  {
+    "id": "2",
+    "title": "Deploying With Vercel",
+    "description": "Practice deploying full-stack web apps using Vercel’s seamless integration with Next.js...",
+    "link": "https://vercel.com/docs",
+    "priority": 2,
+    "timeToFinish": "30",
+    "createdAt": "August 10th 2024",
+    "agreed": true,
+    "status": "inactive",
+    "activatedAt": "2025-07-01T16:09:24.210Z"
+  },
+  {
+    "id": "3",
+    "title": "Color Theory for Developers",
+    "description": "Learn how to apply color schemes effectively in UI design to improve accessibility and aesthetics.\n",
+    "link": "https://www.toptal.com/designers/visual/color-theory-for-designers",
+    "priority": 2,
+    "timeToFinish": "45",
+    "createdAt": "June 18th 2025",
+    "agreed": true,
+    "status": "inactive"
+  },
+  {
+    "id": "4",
+    "title": "Learn NextJS and React",
+    "description": "Learn these technologies because they are popular, and enable better SEO",
+    "link": "https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/?srsltid=AfmBOoozvIZjymnGpk-Yjdc0OYELG8DOxff-A_8PUdsPgf7ifg0DTlEA",
+    "priority": 3,
+    "timeToFinish": 120,
+    "createdAt": "May 20th 2025",
+    "agreed": true,
+    "status": "inactive",
+    "activatedAt": "2025-06-19T12:03:57.608Z"
+  },
+  {
+    "id": "5",
+    "title": "Learning SQL",
+    "description": "SQL acronym for Structured Query Language is a language use to manipulate Database",
+    "link": "https://www.w3schools.com/sql/default.asp",
+    "priority": 1,
+    "timeToFinish": "90",
+    "createdAt": "March 25th 2024",
+    "agreed": true,
+    "status": "inactive"
+  },
+  {
+    "id": "6",
+    "title": "🎨 Design Tool",
+    "description": " Figma Fundamentals: Master the basics of Figma for creating responsive UI designs and rapid prototyping.",
+    "link": "https://link.com",
+    "priority": "3",
+    "timeToFinish": "3",
+    "createdAt": "June 11th 2025",
+    "agreed": true,
+    "status": "complete",
+    "activatedAt": "2025-07-01T16:22:17.807Z"
+  },
+  {
+    "id": "7",
+    "title": "APIs & RESTful Services",
+    "description": "Learn how to design, build, and consume REST APIs—great for backend/frontend integration.\n\n",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API",
+    "priority": "3",
+    "timeToFinish": "45",
+    "createdAt": "June 16th 2025",
+    "agreed": true,
+    "status": "inactive",
+    "activatedAt": "2025-06-18T17:11:23.204Z"
+  },
+  {
+    "id": "8",
+    "title": "Mastering TypeScript",
+    "description": "A comprehensive course to strengthen static typing in JavaScript projects and improve code scalability.\n\n",
+    "link": "https://www.typescriptlang.org/docs/",
+    "priority": "1",
+    "timeToFinish": "90",
+    "createdAt": "June 18th 2025",
+    "status": "complete",
+    "agreed": true,
+    "activatedAt": "2025-07-01T16:59:13.678Z"
+  }
+]
